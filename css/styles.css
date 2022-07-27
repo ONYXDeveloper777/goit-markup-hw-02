@@ -1,0 +1,24 @@
+:root{
+    /* fonts */
+--main-fonts: 'Roboto Bold', sans-serif;
+--secondery-fonts: 'Raleway', sans-serif;
+--spare-fonts: 'Roboto Regular', sans-serif;
+
+/* text colors */
+--main-txt-cl: #212121;
+--eccent-txt-cl: #2196F3;
+
+/* bg colors */
+--light-bg-cl:#E5E5E5;
+--dark-bg-cl: #2F303A;
+
+  /* others */
+
+}
+
+body {
+    font-family: var(--main-fonts);
+    color:violet;
+}
+
+     
