@@ -18,7 +18,13 @@
 
 body {
     font-family: var(--main-fonts);
-    color:violet;
+    color: var(--main-txt-cl);
+}
+
+/* reset styles */
+.limk{
+    text-decoration:none ;
+    color: currentColor;
 }
 
      
