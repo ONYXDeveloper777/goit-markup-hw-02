@@ -54,7 +54,7 @@ body {
 }
 
 .heder-link,.heder-mail,.heder-phone:hover,
-.heder-link,.heder-mail,.heder-phone:focus,{
+.heder-link,.heder-mail,.heder-phone:focus{
 color: var(--eccent-txt-cl);
 }
 
