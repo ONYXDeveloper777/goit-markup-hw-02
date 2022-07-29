@@ -29,6 +29,10 @@ body {
 .list{
     list-style: none;
 }
+
+.btn{
+    
+}
 /* heder section */
 .heder{
     background-color: var(--light-bg-cl);
@@ -43,10 +47,10 @@ body {
     Letter spacing: 3%
 }
 .heder-link{
+    font-family: var(--main-fonts);
     Font style: Medium
     Font size: 14px
-    Line height: 16px
-    Line height: calc(100 / 16) 
+    Line height: calc(16 / 14) 
     Align: Left
     Vertical align: Top
     Letter spacing: 2%
@@ -65,8 +69,7 @@ color: var(--eccent-txt-cl);
 .heder-phone{
     Font style: Medium
     Font size: 14px
-    Line height: 16px
-    Line height: 100%
+    Line height: calc(16 / 14)
     Align: Left
     Vertical align: Top
     Letter spacing: 2%
@@ -74,11 +77,10 @@ color: var(--eccent-txt-cl);
 }
 
 .heder-mail{
-    Font family: Roboto
+    
     Font style: Medium
     Font size: 14px
-    Line height: 16px
-    Line height: 100%
+    Line height: calc(16p / 14)
     Align: Left
     Vertical align: Top
     Letter spacing: 2%
