@@ -31,6 +31,14 @@ body {
 }
 
 .btn{
+font-family: inherit;    
+Font style: Bold
+Font size: 16px
+Line height: calc(30 / 16)
+Vertical align: Center
+Letter spacing: 6%
+color: #FFFFFF;
+cursor: pointer;
 
 }
 /* heder section */
