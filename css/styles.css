@@ -34,14 +34,13 @@ body {
     background-color: var(--light-bg-cl);
 }
 .logo-txt{
- font-family: var(--secondery-fonts);
-Font style: Bold
-Font size: 26px
-Line height: 31px
-Line height: calc(100 / 31);
-Align: Left
-Vertical align: Top 
-Letter spacing: 3%
+     font-family: var(--secondery-fonts);
+    Font style: Bold
+    Font size: 26px
+    Line height: calc(100 / 31);
+    Align: Left
+    Vertical align: Top 
+    Letter spacing: 3%
 }
 
      
