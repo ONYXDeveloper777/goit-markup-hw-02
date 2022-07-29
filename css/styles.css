@@ -1,15 +1,15 @@
 :root{
     /* fonts */
---main-fonts: 'Roboto Bold', sans-serif;
+--main-fonts: 'Roboto', sans-serif;
 --secondery-fonts: 'Raleway', sans-serif;
---spare-fonts: 'Roboto Regular', sans-serif;
+
 
 /* text colors */
 --main-txt-cl: #212121;
 --eccent-txt-cl: #2196F3;
 
 /* bg colors */
---light-bg-cl:#E5E5E5;
+--light-bg-cl:#FFFFFF;
 --dark-bg-cl: #2F303A;
 
   /* others */
@@ -25,6 +25,23 @@ body {
 .limk{
     text-decoration:none ;
     color: currentColor;
+}
+.list{
+    list-style: none;
+}
+/* heder section */
+.heder{
+    background-color: var(--light-bg-cl);
+}
+.logo-txt{
+ font-family: var(--secondery-fonts);
+Font style: Bold
+Font size: 26px
+Line height: 31px
+Line height: calc(100 / 31);
+Align: Left
+Vertical align: Top 
+Letter spacing: 3%
 }
 
      
