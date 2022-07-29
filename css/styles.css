@@ -22,7 +22,7 @@ body {
 }
 
 /* reset styles */
-.limk{
+.link{
     text-decoration:none ;
     color: currentColor;
 }
