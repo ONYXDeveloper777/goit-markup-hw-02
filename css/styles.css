@@ -37,10 +37,9 @@ Font size: 16px
 Line height: calc(30 / 16)
 Vertical align: Center
 Letter spacing: 6%
-color: # FFFFFF;
-background-color: # 2196F3;
+color: #FFFFFF;
+background-color: #2196F3;
 cursor: pointer;
-
 }
 /* heder section */
 .heder{
