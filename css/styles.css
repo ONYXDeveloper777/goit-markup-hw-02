@@ -66,8 +66,8 @@ cursor: pointer;
     color: #212121;
 }
 
-.heder-link,.heder-mail,.heder-phone,.logo-txt:hover,
-.heder-link,.heder-mail,.heder-phone,.logo-txt:focus{
+.heder-link,.logo-txt:hover,
+.heder-link,.logo-txt:focus{
 color: var(--eccent-txt-cl);
 }
 
@@ -94,6 +94,11 @@ color: var(--eccent-txt-cl);
     Vertical align: Top
     Letter spacing: 2%
     color: #757575;
+}
+
+.heder-mail,.heder-phone:hover,
+.heder-mail,.heder-phone:focus{
+    color: var(--eccent-txt-cl);
 }
 
 
