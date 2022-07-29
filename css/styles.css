@@ -43,14 +43,14 @@ body {
     Letter spacing: 3%
 }
 .heder-link{
-Font style: Medium
-Font size: 14px
-Line height: 16px
-Line height: calc(100 / 16) 
-Align: Left
-Vertical align: Top
-Letter spacing: 2%
-color: #212121;
+    Font style: Medium
+    Font size: 14px
+    Line height: 16px
+    Line height: calc(100 / 16) 
+    Align: Left
+    Vertical align: Top
+    Letter spacing: 2%
+    color: #212121;
 }
 
 .heder-link,.heder-mail,.heder-phone:hover,
