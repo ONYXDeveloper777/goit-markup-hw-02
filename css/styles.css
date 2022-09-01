@@ -24,7 +24,7 @@ body {
 /* reset styles */
 .link{
     text-decoration:none ;
-    color: currentColor;
+    color:currentColor ;
 }
 .list{
     list-style: none;
