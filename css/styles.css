@@ -110,7 +110,7 @@ color: #FFFFFF;
 
 
 .button{
-font-family: inherit;    
+font-family: var(--main-fonts)    
 Font style: Bold
 Font size: 16px
 Line height: calc(30 / 16)
