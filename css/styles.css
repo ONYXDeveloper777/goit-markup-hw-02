@@ -23,8 +23,8 @@ body {
 
 /* reset styles */
 .link{
-    text-decoration: none;
-    color: currentColor;
+  text-decoration: none;
+  color: currentColor ;
 }
 .list{
     list-style: none;
@@ -65,9 +65,14 @@ cursor:pointer;
     color: #212121;
 }
 
-.heder-link,.logo-txt:hover,
-.heder-link,.logo-txt:focus{
+.logo-txt:hover,
+.logo-txt:focus{
 color: var(--eccent-txt-cl);
+}
+
+.heder-link:hover,
+.heder-link:focus{
+    color: var(--eccent-txt-cl);
 }
 
 .heder-link-current{
