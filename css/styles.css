@@ -87,6 +87,10 @@ color: var(--eccent-txt-cl);
 
 /* section hero*/
 
+.section-hero{
+    background-color: var(--dark-bg-cl);
+}
+
 .hero-txt{ 
  font-family: var(--main-fonts);
 Font style: Black
