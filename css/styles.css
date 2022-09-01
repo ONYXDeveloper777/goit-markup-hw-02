@@ -23,8 +23,8 @@ body {
 
 /* reset styles */
 .link{
-    text-decoration:none ;
-    color:currentColor ;
+    text-decoration: none;
+    color: currentColor;
 }
 .list{
     list-style: none;
