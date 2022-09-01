@@ -85,8 +85,24 @@ color: var(--eccent-txt-cl);
     color: var(--eccent-txt-cl);
 }
 
+/* section hero*/
+
+.hero-txt{
+Font family: Roboto
+Font style: Black
+Font size: 44px
+Line height: 60px
+Line height: 116%
+Align: Center
+Vertical align: Top
+Letter spacing: 6%
+color: #FFFFFF;
+}
+
+
 
 /* section-discription */
+
 
 
 .button{
