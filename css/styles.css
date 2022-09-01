@@ -30,17 +30,6 @@ body {
     list-style: none;
 }
 
-.btn{
-font-family: inherit;    
-Font style: Bold
-Font size: 16px
-Line height: calc(30 / 16)
-Vertical align: Center
-Letter spacing: 6%
-color: # FFFFFF;
-background-color: # 2196F3;
-cursor:pointer;
-}
 /* heder section */
 .heder{
     background-color: var(--light-bg-cl);
@@ -89,9 +78,27 @@ color: var(--eccent-txt-cl);
     Letter spacing: 2%
     color: #757575;   
 }
+.heder-phone:hover,
+.heder-fone:hover{
+    color: var(--eccent-txt-cl);
+}
+.heder-mail:hover,
+.heder-mail:focus{
+    color: var(--eccent-txt-cl);
+}
 
 
 /* section-discription */
 
 
-     
+     .btn{
+font-family: inherit;    
+Font style: Bold
+Font size: 16px
+Line height: calc(30 / 16)
+Vertical align: Center
+Letter spacing: 6%
+color: # FFFFFF;
+background-color: # 2196F3;
+cursor:pointer;
+}
