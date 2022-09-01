@@ -17,9 +17,9 @@
 }
 
 body {
-    font-family: var(--main-fonts);
+   
     color: var(--main-txt-cl);
-}
+} font-family: var(--main-fonts);
 
 /* reset styles */
 .link{
@@ -87,8 +87,8 @@ color: var(--eccent-txt-cl);
 
 /* section hero*/
 
-.hero-txt{
-Font family: Roboto
+.hero-txt{ 
+ font-family: var(--main-fonts);
 Font style: Black
 Font size: 44px
 Line height: 60px
