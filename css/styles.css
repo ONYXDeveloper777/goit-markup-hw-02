@@ -95,10 +95,6 @@ color: var(--eccent-txt-cl);
     color: #757575;
 }
 
-.heder-mail,.heder-phone:hover
-.heder-mail,.heder-phone:focus{
-    color: var(--eccent-txt-cl);
-}
 /* section-discription */
 
 
