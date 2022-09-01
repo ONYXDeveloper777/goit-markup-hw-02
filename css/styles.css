@@ -89,14 +89,14 @@ color: var(--eccent-txt-cl);
 /* section-discription */
 
 
-     .btn{
+.btn{
 font-family: inherit;    
 Font style: Bold
 Font size: 16px
 Line height: calc(30 / 16)
 Vertical align: Center
 Letter spacing: 6%
-color: # FFFFFF;
-background-color: # 2196F3;
+color: #FFFFFF;
+background-color: #188CE8;
 cursor:pointer;
 }
