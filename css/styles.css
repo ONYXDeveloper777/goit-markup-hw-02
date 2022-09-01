@@ -79,7 +79,8 @@ color: var(--eccent-txt-cl);
     color: var(--eccent-txt-cl);
 }
 
-.heder-phone{
+.heder-phone, 
+.heder-mail{
     Font style: Medium
     Font size: 14px
     Line height: calc(16 / 14)
@@ -89,16 +90,6 @@ color: var(--eccent-txt-cl);
     color: #757575;   
 }
 
-.heder-mail{
-    
-    Font style: Medium
-    Font size: 14px
-    Line height: calc(16p / 14)
-    Align: Left
-    Vertical align: Top
-    Letter spacing: 2%
-    color: #757575;
-}
 
 /* section-discription */
 
